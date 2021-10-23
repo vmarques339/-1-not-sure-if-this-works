@@ -1,0 +1,11 @@
+I was not sure onn how to upload this nor do i know how to upload the other python projects so im just going to write the code like this
+C:\Users\Laptop>python
+the usual stuff
+>>> number = input("Enter Number to guess: ")
+Enter Number to guess: 7
+>>>if (number>8):
+...  print("Too High")
+...elif (number == 7):
+...    print("Correct")
+...
+Correct
